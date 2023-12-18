@@ -1,5 +1,7 @@
 # Hit the square
 
+<img src="https://socialify.git.ci/cgrd1/hit-the-square/image?language=1&amp;name=1&amp;owner=1&amp;theme=Dark" alt="project-image">
+
 ## Description:
 **Hit the square** is a small-scope 2D game implemented in Lua and Love2D where your objective is to hit a moving square in the screen.
 
